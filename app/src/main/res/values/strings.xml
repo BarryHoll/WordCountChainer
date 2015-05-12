@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">WordCountChainer</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="words_done">Words Done!</string>
     <string name="action_settings">Settings</string>
+    <string name="congrats">Well done! Today\'s words done and dusted.</string>
 </resources>
